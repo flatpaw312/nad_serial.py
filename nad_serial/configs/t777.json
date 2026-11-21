@@ -654,6 +654,8 @@
 				"PLIIMovie",
 				"PLIIMusic",
 				"SurroundEX",
+				"NeuralX",
+    			"DTSX",
 				"NEO6Cinema",
 				"NEO6Music"
 			]
@@ -670,6 +672,8 @@
 				"ProLogic",
 				"PLIIMovie",
 				"PLIIMusic",
+				"NeuralX",
+    			"DTSX",
 				"NEO6Cinema",
 				"NEO6Music"
 			]
@@ -690,6 +694,8 @@
 			"values": [
 				"None",
 				"StereoDownmix",
+				"NeuralX",
+    			"DTSX",
 				"NEO6Music",
 				"NEO6Cinema"
 			]
@@ -712,6 +718,8 @@
 			"values": [
 				"None",
 				"StereoDownmix",
+				"NeuralX",
+    			"DTSX",
 				"PLIIMovie",
 				"PLIIMusic",
 				"SurroundEX"
@@ -740,6 +748,8 @@
 				"None",
 				"PLIIMovie",
 				"PLIIMusic",
+				"NeuralX",
+    			"DTSX",
 				"NEO6Cinema",
 				"NEO6Music",
 				"StereoDownmix"
